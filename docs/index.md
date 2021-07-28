@@ -1,7 +1,7 @@
 ---
-title: "Course Name "
-author: "Author Name"
-date: "2021-06-16"
+title: "CMDB Bootcamp"
+author: "Rajiv McCoy, Michael Sauria, Frederick Tan"
+date: "2021-07-28"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
