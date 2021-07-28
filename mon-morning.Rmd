@@ -1,0 +1,21 @@
+# Monday Morning
+
+## Your Laptop
+
+## macOS
+
+## CLI
+
+## Pipes
+
+## Git
+
+## Organize Files
+
+## IGV
+
+```{r, echo=FALSE}
+leanbuild::include_slide("https://docs.google.com/presentation/d/1Sk9ZnCCX0XYlaLl9pNyFGyYYyxXgGWPeOOHG3TDaN_I/edit#slide=id.gcf1264c749_0_140")
+```
+
+## BEDTools

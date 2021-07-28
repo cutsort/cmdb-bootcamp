@@ -1,6 +1,6 @@
 ---
-title: "Course Name "
-author: "Author Name"
+title: "CMDB Bootcamp"
+author: "Rajiv McCoy, Michael Sauria, Frederick Tan"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
